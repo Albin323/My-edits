@@ -53,4 +53,4 @@ git clone https://github.com/FXServer-ESX/fxserver-es_camera es_camera
 git clone https://github.com/ESX-Org/cron cron
 git clone https://github.com/ESX-Org/async async
 git clone https://github.com/brouznouf/fivem-mysql-async mysql-async
-git clone https://github.com/jonassvensson4/jsfour-register [Hunter]/jsfour-register
+git clone https://github.com/jonassvensson4/jsfour-register [jsfour]/jsfour-register
